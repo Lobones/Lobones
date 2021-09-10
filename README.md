@@ -1,4 +1,4 @@
-## Oi! Bem-vindo ao meu perfil 👋
+## Oi! 👋
 
 
 - 🔭 Experiência em Java, Kotlin, JavaScript e Flutter
