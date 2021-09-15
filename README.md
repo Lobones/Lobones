@@ -1,7 +1,7 @@
 ## Peço desculpas por tudo que você verá aqui 🤓
 
 
-- 🔭 Experiência em Java, Kotlin, JavaScript e Flutter
+- 🔭 Experiência em Java (também Kotlin, JavaScript e Flutter)
 - 🌱 Estudando Rust, OCaml e Swift
 - 📫 Contato: twitter.com/romulolobof | lobones@pm.me
 - ⚡ Manaus/AM, BR
