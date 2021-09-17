@@ -9,8 +9,8 @@ Welcome Stalker 👀
 
 ## About
 
-* <span title="Atualmente morando em">Residence</span> <span title="Brazil">🇧🇷</span>
-* <span title="Idiomas que falo">Languages</span> [ptBR](https://pt.wikipedia.org/wiki/L%C3%ADngua_portuguesa "Portuguese") e [enUS](https://en.wikipedia.org/wiki/English_language "English")
+* <span title="Atualmente morando no Brasil">🇧🇷</span>
+* <span title="Idiomas que falo">[ptBR](https://pt.wikipedia.org/wiki/L%C3%ADngua_portuguesa "Portuguese") and [enUS](https://en.wikipedia.org/wiki/English_language "English")</span>
 * <span title="Contato">Contact</span> [lobones@pm.me](mailto:lobones@pm.me) / [twitter](https://twitter.com/romulolobof)
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
