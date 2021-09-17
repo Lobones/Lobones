@@ -9,10 +9,11 @@ Welcome Stalker 👀
 
 ## About
 
-* <span title="Atualmente morando em">Residence</span>: <span title="Brazil">🇧🇷</span>
-* <span title="Idiomas que falo">Languages</span>: [ptBR](https://pt.wikipedia.org/wiki/L%C3%ADngua_portuguesa "Portuguese") e [enUS](https://en.wikipedia.org/wiki/English_language "English")
-* <span title="Contato">Contact</span>: [lobones@pm.me](mailto:lobones@pm.me) / [twitter](https://twitter.com/romulolobof)
-* <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
+* <span title="Atualmente morando em">Residence</span> <span title="Brazil">🇧🇷</span>
+* <span title="Idiomas que falo">Languages</span> [ptBR](https://pt.wikipedia.org/wiki/L%C3%ADngua_portuguesa "Portuguese") e [enUS](https://en.wikipedia.org/wiki/English_language "English")
+* <span title="Contato">Contact</span> [lobones@pm.me](mailto:lobones@pm.me) / [twitter](https://twitter.com/romulolobof)
+
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
@@ -69,4 +70,4 @@ Welcome Stalker 👀
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
-<a href="https://inkscape.org/" title="Inkscape"><img src="https://github.com/get-icon/geticon/raw/master/icons/inkscape.svg" alt="Inkscape" width="21px" height="21px"></a> ([geticon](https://github.com/get-icon/geticon "Get Icon Project"))
+<a href="https://inkscape.org/" title="Inkscape"><img src="https://github.com/get-icon/geticon/raw/master/icons/inkscape.svg" alt="Inkscape" width="21px" height="21px"></a>
