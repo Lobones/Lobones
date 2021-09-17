@@ -8,7 +8,6 @@ Welcome Stalker 👀
 </p>
 
 ## About
-
 * <span title="Atualmente morando no Brasil">🇧🇷</span>
 * <span title="Idiomas que falo">[ptBR](https://pt.wikipedia.org/wiki/L%C3%ADngua_portuguesa "Portuguese") / [enUS](https://en.wikipedia.org/wiki/English_language "English")</span>
 * <span title="Contato">[lobones@pm.me](mailto:lobones@pm.me) / [twitter](https://twitter.com/romulolobof)</span>
