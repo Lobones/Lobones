@@ -1,4 +1,8 @@
-## Peço desculpas por tudo que você verá aqui 🤓
+<p align="center">
+  <img src="https://i.imgur.com/xrIz6l3.png" alt="Verdi."/>
+</p>
+
+## Peço desculpas por tudo que você verá aqui 🤓 
 
 
 - 🔭 Experiência com projetos pessoais em Java e JavaScript
