@@ -4,7 +4,7 @@
 - 🔭 Experiência com projetos pessoais em Java e JavaScript
 - 👨🏻‍🎓 Experiência com projetos acadêmicos em C++ (e derivados)
 - 🌱 Estudando Rust, OCaml e Swift
-- 📫 Contato: twitter.com/romulolobof | lobones@pm.me
+- 📫 Contato: [@romulolobof](https://twitter.com/romulolobof) | lobones@pm.me
 - ⚡ Manaus/AM, BR
 
 <div>
