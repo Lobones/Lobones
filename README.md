@@ -4,7 +4,7 @@ Welcome Stalker 👀
 </h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/xrIz6l3.png" alt="Image"/>
+  <img src="https://i.imgur.com/ujIIx5q.png" alt="Image"/>
 </p>
 
 ## About
