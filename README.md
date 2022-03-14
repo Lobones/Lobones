@@ -3,14 +3,11 @@
 </p>
 
 # Meu nome é Rômulo!
-
-![](https://komarev.com/ghpvc/?username=Lobones&color=006bed)
-<br/>
-
-### Eu desenvolvo aplicações que criam vida nos dispositivos conectados das pessoas!
-### Minha tragetória começou em meados de 2014 quando criei minhas primeiras aplicações em Java, desde lá venho me atualizando e criando novos sistemas e aplicativos nas mais diversas e modernas tecnologias que existem hoje.
-### Você pode ver um pouco do meu trabalho em ![meu portfólio](https://rômulo.com).
-### Hoje estou focado no desenvolvimento mobile nativo para iOS, mas também faço manutenção e atendo clientes de sistemas em Java/Spring, Web/React e Android/Kotlin.
+### Permita-me contar um pouco sobre mim:
+ - Eu desenvolvo aplicações que criam vida nos dispositivos conectados das pessoas!
+ - Minha tragetória começou em meados de 2014 quando criei minhas primeiras aplicações em Java, desde lá venho me atualizando e criando novos sistemas e aplicativos nas mais diversas e modernas tecnologias que existem hoje.
+ - Você pode ver um pouco do meu trabalho em ![meu portfólio](https://rômulo.com).
+ - Hoje estou focado no desenvolvimento mobile nativo para iOS, mas também faço manutenção e atendo clientes de sistemas em Java/Spring, Web/React e Android/Kotlin.
 
 <h3> :rocket: &nbsp;Habilidades: </h3>
 
@@ -50,3 +47,4 @@
 [![Linkedin: Rômulo Lobo](https://img.shields.io/badge/-Rômulo%20Lobo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/r%C3%B4mulo-lobo-b5577620b/)](https://www.linkedin.com/in/r%C3%B4mulo-lobo-b5577620b/)
 [![Gmail Badge](https://img.shields.io/badge/-romulolobof@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romulolobof@gmail.com)](mailto:romulolobof@gmail.com)
 [![GitHub Rômulo Lobo F.]( https://img.shields.io/github/followers/Lobones?label=follow&style=social)](https://github.com/Lobones)
+![](https://komarev.com/ghpvc/?username=Lobones&color=006bed)
