@@ -5,7 +5,7 @@
 # Meu nome é Rômulo!
 ### Permita-me contar um pouco sobre mim:
  - Eu desenvolvo aplicações que criam vida nos dispositivos conectados das pessoas!
- - Minha tragetória começou em meados de 2014 quando criei minhas primeiras aplicações em Java, desde lá venho me atualizando e criando novos sistemas e aplicativos nas mais diversas e modernas tecnologias que existem hoje.
+ - Minha trajetória começou em meados de 2014 quando criei minhas primeiras aplicações em Java, desde lá venho me atualizando e criando novos sistemas e aplicativos nas mais diversas e modernas tecnologias que existem hoje.
  - Você pode ver um pouco do meu trabalho em ![meu portfólio](https://rômulo.com).
  - Hoje estou focado no desenvolvimento mobile nativo para iOS, mas também faço atualizações ao atender clientes de sistemas em Java/Spring, Web/React e Android/Kotlin.
 
