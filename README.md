@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/ujIIx5q.png" alt="Image" style="width: 300px; height: 300px;"/>
 </p>
 
-# Meu nome é Rômulo!
+# Bem-vindo(a) a minha página do GitHub, meu nome é Rômulo.
 ### Permita-me contar um pouco sobre mim:
  - Eu desenvolvo aplicações que criam vida nos dispositivos conectados das pessoas!
  - Minha trajetória começou em meados de 2014 quando criei minhas primeiras aplicações em Java, desde lá venho me atualizando e criando novos sistemas e aplicativos nas mais diversas e modernas tecnologias que existem hoje.
