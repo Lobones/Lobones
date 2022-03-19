@@ -45,6 +45,6 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Rômulo Lobo](https://img.shields.io/badge/-Rômulo%20Lobo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/r%C3%B4mulo-lobo-b5577620b/)](https://www.linkedin.com/in/r%C3%B4mulo-lobo-b5577620b/)
-[![Gmail Badge](https://img.shields.io/badge/-romulolobof@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romulolobof@gmail.com)](mailto:romulolobof@gmail.com)
+[![ProtonMail Badge](https://img.shields.io/badge/-romulolobof@pm.me-006bed?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:romulolobof@pm.me)](mailto:romulolobof@pm.me)
 [![GitHub Rômulo Lobo F.]( https://img.shields.io/github/followers/Lobones?label=follow&style=social)](https://github.com/Lobones)
 ![](https://komarev.com/ghpvc/?username=Lobones&color=006bed)
